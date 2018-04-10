@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "GetOver",
+    "slug": "get-over",
+    "sdkVersion": "25.0.0",
+    "privacy": "public",
+    "facebookScheme": "fb408528422903101"
+  },
+  "ios": {
+    "bundleIdentifier": "com.rgm93.getover"
+  },
+  "android": {
+    "package": "com.rgm93.getover"
+  }
+}
